@@ -20,3 +20,10 @@ Have you ever thought how to beat that fun Easter Egg game in Chrome ? Well i ha
 - ALWAYS WILL NOT WORK
 - MIGHT NOT GET TO 10K
 - MIGHT NOT HAVE EXELENT PERFORMANCE
+
+
+
+### Update
+Welp , I was wrong . It could hit 38K !
+
+<img src=https://i.imgur.com/vWZfYL1.png>
